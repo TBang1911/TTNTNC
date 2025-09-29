@@ -2,5 +2,4 @@
 ## HỌ TÊN: THÁI MINH KHANG 
 Cấu trúc thư mục: <br>
   &emsp; HomeWork: bài tập về nhà <br>
-  &emsp; &emsp; Lab... <br>
   &emsp; Project: dự án <br>
